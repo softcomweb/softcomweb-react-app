@@ -9,7 +9,8 @@ metadata:
     github.com/user-login: leacoco
     github.com/team-slug: devops
     backstage.io/techdocs-ref: dir:.
+    circleci.com/project-slug: github/softcomweb/softcomweb-react-app
 spec:
-  type: website
+  type: service
   owner: leadel@softcomweb.info
   lifecycle: experimental
